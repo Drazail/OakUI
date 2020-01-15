@@ -21,7 +21,7 @@ to achieve these goals we had to impose some restrictions:
 
 ## Design
 
-As big fan of flat designs ( I'm not a designer, i just like them cause they look cool while being easy to implement), so I decided to implement light and dark themed flat designs as the default options for this library, however, it doesn't mean you cannot create your own designs, if you can make it in react-native, you can make it here as well. 
+As big fan of flat designs ( I'm not a designer, i just like them cause they look cool while being easy to implement), I decided to implement light and dark themed flat designs as the default options for this library, however, it doesn't mean you cannot create your own designs, if you can make it in react-native, you can make it here as well. 
 
 ## Topics
 
